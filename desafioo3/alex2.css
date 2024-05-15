@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Jaro:opsz@6..72&display=swap');
+h6{
+    
+    font-size: 30px;
+    font-family: "Jaro", sans-serif;
+}
+option{
+    color: red;
+    font-size: 20px;
+}
+body{
+  padding: 15px;
+  border: 1px solid rgb(0, 0, 0);
+}
+
+label{
+    font-size: 50px;
+    text-align: center;
+}
+input{
+    font-size: 30px;
+    font-family: "Jaro", sans-serif;
+}
+.centro{
+    text-align: center;
+}

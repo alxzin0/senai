@@ -1,0 +1,12 @@
+h1{
+ border: 5px solid rgb(0, 119, 255);
+ padding: 40px; 
+ background-color: black;
+ color: rgb(255, 255, 255);
+}
+h2{
+    margin-top:100px ;
+    border: 3px solid pink;
+    margin-left: 500px;
+    margin-right: 1144px;
+}
