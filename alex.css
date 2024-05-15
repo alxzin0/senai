@@ -1,23 +1,20 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Sedan+SC&display=swap');
-p{ 
-    font-family: "Sedan SC", serif ;
-    font-size: 20px;
-    color: aliceblue;
-}
 h1{
-    font-size: 43px;
-    color: aliceblue
-}
-body{
-    background-color: black;
-}
- .color{
-    color: red;
-    font-size: 40px;
- }
- .f{
-    color: blue;
-    font-size: 20px;
- }
- 
+    text-align: center;
+     color: #ffffff;
+     font-size: 100px;
+     border: 100px;
+     border: blue;
+    }
+    li{
+        margin: 10px 0;
+        padding: 15px;
+        background-color: #ffffff;
+        border: 1px solid #e0e0e0;
+        border-radius: 8px;
+    }
+    body{
+        background-image: url(https://i.pinimg.com/originals/8e/69/1b/8e691b06570e644a6c311a6f4a25d630.jpg);
+        background-size: cover;
+    
+    }
+    
