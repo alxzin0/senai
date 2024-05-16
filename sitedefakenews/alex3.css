@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    font-family: "Roboto Condensed", sans-serif;
+    background-image: url(https://rare-gallery.com/uploads/posts/500944-simple-background.jpg);
+}
+#span1{
+    color: crimson;
+}
+h2{
+ color: blue;
+ border: 1px solid rgb(rgb(82, 71, 71));
+ background-color: darkgrey;
+ margin-left: 100px;
+ margin-right:1600px;
+ margin-top: 20px;
+ 
+}
+h1{
+    margin-left: 30px;
+}
+img{
+    border-radius: 8px;
+    border: 10px solid darkgrey;
+    margin-left: 70px;
+    width: 50%;
+}
+figcaption{
+    margin-left: 90PX;
+    font-size: 15PX;
+}
+h3{
+    font-size: 30px;
+    color: blue;
+    border: 1px solid rgb(rgb(82, 71, 71));
+    background-color: darkgrey;
+    margin-left: 100px;
+    margin-right:1660px;
+    margin-top: 20px;
+}
+.fi{
+    margin-left: 800PX;
+    font-size: 35PX;
+
+}
+.alex{
+    text-align: center;
+    border: 10px solid darkgrey;
+    width: 50%;
+    margin-left: 410px;
+
+}
+h4{
+    border: 1px solid darkgray;
+    background-color: darkgray;
+    text-align: center;
+    padding-bottom: 90px;
+    font-size: 30px;
+}
